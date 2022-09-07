@@ -7,4 +7,5 @@ public class mang_1_chieu {
             System.out.println(arr[i]);
         }
     }
+
 }
