@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df4eddcf-f69f-49e9-b97a-db616a6fe858" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_lop_va_doi_tuong/Fan/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_lop_va_doi_tuong/Fan/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_lop_va_doi_tuong/Pt_bac_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_lop_va_doi_tuong/Pt_bac_2/QuadraticEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_lop_va_doi_tuong/Stop_Watch/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_lop_va_doi_tuong/Stop_Watch/StopWatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss4_lop_va_doi_tuong/Bai_tap/bai1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Bai_tap/them_phan_tu_vao_mang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Bai_tap/them_phan_tu_vao_mang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Bai_tap/xoa_phan_tu_khoi_mang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Bai_tap/xoa_phan_tu_khoi_mang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss4_lop_va_doi_tuong/Stop_Watch/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss4_lop_va_doi_tuong/Stop_Watch/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss4_lop_va_doi_tuong/Stop_Watch/StopWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss4_lop_va_doi_tuong/Stop_Watch/StopWatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +47,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ss4_lop_va_doi_tuong.Fan.Main">
+  <component name="RunManager" selected="Application.them_phan_tu_vao_mang">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss4_lop_va_doi_tuong.Pt_bac_2.Main" />
       <module name="Module 2" />
@@ -78,19 +74,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss4_lop_va_doi_tuong.Bai_tap.Thuc_hanh.main" />
-      <module name="Module 2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss4_lop_va_doi_tuong.Bai_tap.Thuc_hanh.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ss4_lop_va_doi_tuong.Fan.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss4_lop_va_doi_tuong.Fan.Main" />
       <module name="Module 2" />
@@ -104,8 +87,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tim_pt_nho_nhat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_mang_phuong_thuc.Bai_tap.tim_pt_nho_nhat" />
+    <configuration name="them_phan_tu_vao_mang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss3_mang_phuong_thuc.Bai_tap.them_phan_tu_vao_mang" />
+      <module name="Module 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss3_mang_phuong_thuc.Bai_tap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xoa_phan_tu_khoi_mang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss3_mang_phuong_thuc.Bai_tap.xoa_phan_tu_khoi_mang" />
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.them_phan_tu_vao_mang" />
+        <item itemvalue="Application.xoa_phan_tu_khoi_mang" />
         <item itemvalue="Application.ss4_lop_va_doi_tuong.Fan.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main_pt_bac_2" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.tim_pt_nho_nhat" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +140,8 @@
       <workItem from="1662594265481" duration="2876000" />
       <workItem from="1662691660089" duration="6868000" />
       <workItem from="1662712060283" duration="2118000" />
-      <workItem from="1662721008632" duration="4580000" />
+      <workItem from="1662721008632" duration="6272000" />
+      <workItem from="1662799266461" duration="1740000" />
     </task>
     <servers />
   </component>
@@ -174,16 +171,6 @@
           <url>file://$PROJECT_DIR$/src/ss2_vong_lap/Thuc_hanh/dao_nguoc_phan_tu.java</url>
           <line>23</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Bai_tap/them_phan_tu_vao_mang.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Bai_tap/them_phan_tu_vao_mang.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Thuc_hanh/sap_xep_tang_dan.java</url>

@@ -19,8 +19,9 @@ public class StopWatch {
     }
 
     public int getElapsedTime() {
+
        return  this.endTime.getSecond()- this.startTime.getSecond();
     }
 
-    z
+
 }
