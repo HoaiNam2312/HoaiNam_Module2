@@ -5,16 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df4eddcf-f69f-49e9-b97a-db616a6fe858" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss4_lop_va_doi_tuong/Test/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_lop_va_doi_tuong/Test/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_lop_va_doi_tuong/Test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss5_Access_Modifier_Static_Method_Static_Property/Circle/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss5_Access_Modifier_Static_Method_Static_Property/Circle/TestCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss5_Access_Modifier_Static_Method_Static_Property/Student/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss5_Access_Modifier_Static_Method_Static_Property/Student/TestStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Circle_Cylinder/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Circle_Cylinder/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Circle_Cylinder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Point2D_Point3D/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Point2D_Point3D/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Point2D_Point3D/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Point_MovablePoint/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Point_MovablePoint/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Point_MovablePoint/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Thuc_hanh/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Thuc_hanh/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Thuc_hanh/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss4_lop_va_doi_tuong/Stop_Watch/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss4_lop_va_doi_tuong/Stop_Watch/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss4_lop_va_doi_tuong/Stop_Watch/StopWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss4_lop_va_doi_tuong/Stop_Watch/StopWatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,26 +55,13 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ss4_lop_va_doi_tuong.Test.Main">
-    <configuration name="ss4_lop_va_doi_tuong.Fan.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss4_lop_va_doi_tuong.Fan.Main" />
+  <component name="RunManager" selected="Application.ss6_ke_thua.Bai_tap.Point_MovablePoint.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.Thuc_hanh.Main" />
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss4_lop_va_doi_tuong.Fan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ss4_lop_va_doi_tuong.Stop_Watch.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss4_lop_va_doi_tuong.Stop_Watch.Main" />
-      <module name="Module 2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss4_lop_va_doi_tuong.Stop_Watch.*" />
+          <option name="PATTERN" value="ss6_ke_thua.Thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="them_phan_tu_vao_mang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_mang_phuong_thuc.Bai_tap.them_phan_tu_vao_mang" />
+    <configuration name="ss6_ke_thua.Bai_tap.Circle_Cylinder.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.Bai_tap.Circle_Cylinder.Main" />
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss3_mang_phuong_thuc.Bai_tap.*" />
+          <option name="PATTERN" value="ss6_ke_thua.Bai_tap.Circle_Cylinder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +95,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="xoa_phan_tu_khoi_mang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_mang_phuong_thuc.Bai_tap.xoa_phan_tu_khoi_mang" />
+    <configuration name="ss6_ke_thua.Bai_tap.Point2D_Point3D.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.Bai_tap.Point2D_Point3D.Main" />
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss3_mang_phuong_thuc.Bai_tap.*" />
+          <option name="PATTERN" value="ss6_ke_thua.Bai_tap.Point2D_Point3D.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ss6_ke_thua.Bai_tap.Point_MovablePoint.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.Bai_tap.Point_MovablePoint.Main" />
+      <module name="Module 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss6_ke_thua.Bai_tap.Point_MovablePoint.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ss6_ke_thua.Bai_tap.Point_MovablePoint.Main" />
+        <item itemvalue="Application.ss6_ke_thua.Bai_tap.Point2D_Point3D.Main" />
+        <item itemvalue="Application.ss6_ke_thua.Bai_tap.Circle_Cylinder.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ss4_lop_va_doi_tuong.Test.Main" />
-        <item itemvalue="Application.ss4_lop_va_doi_tuong.Stop_Watch.Main" />
-        <item itemvalue="Application.them_phan_tu_vao_mang" />
-        <item itemvalue="Application.xoa_phan_tu_khoi_mang" />
-        <item itemvalue="Application.ss4_lop_va_doi_tuong.Fan.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +155,11 @@
       <workItem from="1662904036205" duration="603000" />
       <workItem from="1662943431500" duration="1248000" />
       <workItem from="1662949309783" duration="33000" />
-      <workItem from="1662972430240" duration="1841000" />
+      <workItem from="1662972430240" duration="2437000" />
+      <workItem from="1662979912783" duration="1374000" />
+      <workItem from="1662996074705" duration="2314000" />
+      <workItem from="1663037030212" duration="3524000" />
+      <workItem from="1663058626569" duration="2500000" />
     </task>
     <servers />
   </component>
