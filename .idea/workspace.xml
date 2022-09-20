@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df4eddcf-f69f-49e9-b97a-db616a6fe858" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Circle_Cylinder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Circle_Cylinder/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Point2D_Point3D/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Point2D_Point3D/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Point_MovablePoint/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Point_MovablePoint/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_DSA/bai_tap/array_list/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Test_mang/XoaPhanTu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss10_DSA/bai_tap/array_list/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss10_DSA/bai_tap/array_list/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Bai_tap/xoa_phan_tu_khoi_mang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Bai_tap/xoa_phan_tu_khoi_mang.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,20 +52,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MyListTest">
-    <configuration name="ColorableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss7_abstract_class_interface.bai_tap.trien_khai_interface_Resizeable.ColorableTest" />
-      <module name="Module 2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss7_abstract_class_interface.bai_tap.trien_khai_interface_Resizeable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ss10_DSA.bai_tap.array_list.MyListTest">
     <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss10_DSA.thuc_hanh.trien_khai_list_co_ban.MyListTest" />
       <module name="Module 2" />
@@ -77,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ResizeableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss7_abstract_class_interface.bai_tap.trien_khai_interface_Resizeable.ResizeableTest" />
+    <configuration name="TestDuyetArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss10_DSA.test.TestDuyetArrayList" />
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss7_abstract_class_interface.bai_tap.trien_khai_interface_Resizeable.*" />
+          <option name="PATTERN" value="ss10_DSA.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +79,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDuyetArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss10_DSA.test.TestDuyetArrayList" />
+    <configuration name="XoaPhanTu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss3_mang_phuong_thuc.Test_mang.XoaPhanTu" />
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss10_DSA.test.*" />
+          <option name="PATTERN" value="ss3_mang_phuong_thuc.Test_mang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ss10_DSA.bai_tap.array_list.MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss10_DSA.bai_tap.array_list.MyListTest" />
+      <module name="Module 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss10_DSA.bai_tap.array_list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ss10_DSA.bai_tap.array_list.MyListTest" />
+        <item itemvalue="Application.XoaPhanTu" />
         <item itemvalue="Application.MyListTest" />
         <item itemvalue="Application.TestDuyetArrayList" />
         <item itemvalue="JUnit.CylinderTest" />
-        <item itemvalue="Application.ResizeableTest" />
-        <item itemvalue="Application.ColorableTest" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +173,7 @@
       <workItem from="1663584832610" duration="5579000" />
       <workItem from="1663609249985" duration="597000" />
       <workItem from="1663635666818" duration="5394000" />
-      <workItem from="1663659766741" duration="677000" />
+      <workItem from="1663659766741" duration="7525000" />
     </task>
     <servers />
   </component>
