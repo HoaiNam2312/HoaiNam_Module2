@@ -37,4 +37,22 @@ public class xoa_phan_tu_khoi_mang {
         }
         return result;
     }
+    public static int[] xoaPhanTu(int arr[],int index) {
+        int result[] = new int[arr.length-1];
+        int index=0;
+        for (int i = 0; i < index; i++) {
+            if (value == arr[i]) {
+                index = i;
+                break;
+            }
+        }
+        for (int j = 0; j < result.length; j++) {
+            if (j < index) {
+                result[j] = arr[j];
+            } else {
+                result[j]=arr[j+1];
+            }
+        }
+        return result;
+    }
 }

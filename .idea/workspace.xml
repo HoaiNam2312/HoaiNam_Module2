@@ -5,19 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df4eddcf-f69f-49e9-b97a-db616a6fe858" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Circle_Cylinder/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Circle_Cylinder/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Circle_Cylinder/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Point2D_Point3D/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Point2D_Point3D/Point2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Point2D_Point3D/Point3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Point_MovablePoint/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Point_MovablePoint/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Point_MovablePoint/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Thuc_hanh/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Thuc_hanh/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Thuc_hanh/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_DSA/bai_tap/array_list/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_DSA/test/TestDuyetArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_DSA/thuc_hanh/trien_khai_list_co_ban/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_DSA/thuc_hanh/trien_khai_list_co_ban/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Test_mang/SapXepMang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Tu_hoc_TITV/Ke_thua_abstraction/HangSanXuat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Tu_hoc_TITV/Ke_thua_abstraction/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Tu_hoc_TITV/Ke_thua_abstraction/MayBay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Tu_hoc_TITV/Ke_thua_abstraction/PhuongTienDiChuyen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Tu_hoc_TITV/Ke_thua_abstraction/XeOto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/Tu_hoc_TITV/Interface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/Tu_hoc_TITV/Interface/MayTinhBoTui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/Tu_hoc_TITV/Interface/MayTinhCasioFX500.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/Tu_hoc_TITV/Interface/MayTinhVinaCal500.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/Tu_hoc_TITV/Interface/PhanMenMayTinh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/Tu_hoc_TITV/Interface/SapXepChen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/Tu_hoc_TITV/Interface/SapXepInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/Colorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/ColorableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/ResizeableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_refactoring/bai_tap/TennisGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_refactoring/thuc_hanh/doi_ten_bien_tach_hang/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_refactoring/thuc_hanh/doi_ten_bien_tach_hang/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_refactoring/thuc_hanh/refactoring_tach_phuong_thuc/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_refactoring/thuc_hanh/refactoring_tach_phuong_thuc/CylinderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_refactoring/thuc_hanh/tach_bien/FizzBuzz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Module 2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Bai_tap/xoa_phan_tu_khoi_mang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Bai_tap/xoa_phan_tu_khoi_mang.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +52,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -45,6 +71,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -55,13 +85,13 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ss6_ke_thua.Bai_tap.Point_MovablePoint.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.Thuc_hanh.Main" />
+  <component name="RunManager" selected="Application.MyListTest">
+    <configuration name="ColorableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss7_abstract_class_interface.bai_tap.trien_khai_interface_Resizeable.ColorableTest" />
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss6_ke_thua.Thuc_hanh.*" />
+          <option name="PATTERN" value="ss7_abstract_class_interface.bai_tap.trien_khai_interface_Resizeable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ss4_lop_va_doi_tuong.Test.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss4_lop_va_doi_tuong.Test.Main" />
+    <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss10_DSA.thuc_hanh.trien_khai_list_co_ban.MyListTest" />
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss4_lop_va_doi_tuong.Test.*" />
+          <option name="PATTERN" value="ss10_DSA.thuc_hanh.trien_khai_list_co_ban.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ss6_ke_thua.Bai_tap.Circle_Cylinder.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.Bai_tap.Circle_Cylinder.Main" />
+    <configuration name="ResizeableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss7_abstract_class_interface.bai_tap.trien_khai_interface_Resizeable.ResizeableTest" />
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss6_ke_thua.Bai_tap.Circle_Cylinder.*" />
+          <option name="PATTERN" value="ss7_abstract_class_interface.bai_tap.trien_khai_interface_Resizeable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ss6_ke_thua.Bai_tap.Point2D_Point3D.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.Bai_tap.Point2D_Point3D.Main" />
+    <configuration name="TestDuyetArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss10_DSA.test.TestDuyetArrayList" />
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss6_ke_thua.Bai_tap.Point2D_Point3D.*" />
+          <option name="PATTERN" value="ss10_DSA.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,26 +138,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ss6_ke_thua.Bai_tap.Point_MovablePoint.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.Bai_tap.Point_MovablePoint.Main" />
+    <configuration name="CylinderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss6_ke_thua.Bai_tap.Point_MovablePoint.*" />
+          <option name="PATTERN" value="ss8_clean_code_refactoring.thuc_hanh.refactoring_tach_phuong_thuc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ss8_clean_code_refactoring.thuc_hanh.refactoring_tach_phuong_thuc" />
+      <option name="MAIN_CLASS_NAME" value="ss8_clean_code_refactoring.thuc_hanh.refactoring_tach_phuong_thuc.CylinderTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ss6_ke_thua.Bai_tap.Point_MovablePoint.Main" />
-        <item itemvalue="Application.ss6_ke_thua.Bai_tap.Point2D_Point3D.Main" />
-        <item itemvalue="Application.ss6_ke_thua.Bai_tap.Circle_Cylinder.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ss4_lop_va_doi_tuong.Test.Main" />
+        <item itemvalue="Application.MyListTest" />
+        <item itemvalue="Application.TestDuyetArrayList" />
+        <item itemvalue="JUnit.CylinderTest" />
+        <item itemvalue="Application.ResizeableTest" />
+        <item itemvalue="Application.ColorableTest" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +191,21 @@
       <workItem from="1662979912783" duration="1374000" />
       <workItem from="1662996074705" duration="2314000" />
       <workItem from="1663037030212" duration="3524000" />
-      <workItem from="1663058626569" duration="2500000" />
+      <workItem from="1663058626569" duration="5540000" />
+      <workItem from="1663115307397" duration="4059000" />
+      <workItem from="1663121885795" duration="614000" />
+      <workItem from="1663152602066" duration="7251000" />
+      <workItem from="1663200307689" duration="3035000" />
+      <workItem from="1663287147993" duration="1075000" />
+      <workItem from="1663296859421" duration="1673000" />
+      <workItem from="1663326153147" duration="5944000" />
+      <workItem from="1663440182238" duration="3138000" />
+      <workItem from="1663507354159" duration="2171000" />
+      <workItem from="1663553955955" duration="4720000" />
+      <workItem from="1663575376975" duration="596000" />
+      <workItem from="1663584832610" duration="5579000" />
+      <workItem from="1663609249985" duration="597000" />
+      <workItem from="1663635666818" duration="5394000" />
     </task>
     <servers />
   </component>
@@ -236,5 +282,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Module_2$ColorableTest.ic" NAME="ColorableTest Coverage Results" MODIFIED="1663328230438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ss7_abstract_class_interface.bai_tap.trien_khai_interface_Resizeable.*</FILTER>
+    </SUITE>
   </component>
 </project>

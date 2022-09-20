@@ -1,0 +1,26 @@
+package ss6_ke_thua.Tu_hoc_TITV.Ke_thua_abstraction;
+
+public class HangSanXuat {
+    private String tenHangSanXuat, tenQuocGia;
+
+    public HangSanXuat(String tenHangSanXuat, String tenQuocGia) {
+        this.tenHangSanXuat = tenHangSanXuat;
+        this.tenQuocGia = tenQuocGia;
+    }
+
+    public String getTenHangSanXuat() {
+        return tenHangSanXuat;
+    }
+
+    public String getTenQuocGia() {
+        return tenQuocGia;
+    }
+
+    public void setTenHangSanXuat(String tenHangSanXuat) {
+        this.tenHangSanXuat = tenHangSanXuat;
+    }
+
+    public void setTenQuocGia(String tenQuocGia) {
+        this.tenQuocGia = tenQuocGia;
+    }
+}
