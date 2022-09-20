@@ -1,6 +1,6 @@
 package ss6_ke_thua.Bai_tap.Circle_Cylinder;
 
-public class Main {
+public class Test {
     public static void main(String[] args) {
         Cylinder hinhTru = new Cylinder(5,"Red",10);
         System.out.println(hinhTru.getVolume());

@@ -5,44 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df4eddcf-f69f-49e9-b97a-db616a6fe858" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss10_DSA/bai_tap/array_list/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss10_DSA/test/TestDuyetArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss10_DSA/thuc_hanh/trien_khai_list_co_ban/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss10_DSA/thuc_hanh/trien_khai_list_co_ban/MyListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Test_mang/SapXepMang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Tu_hoc_TITV/Ke_thua_abstraction/HangSanXuat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Tu_hoc_TITV/Ke_thua_abstraction/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Tu_hoc_TITV/Ke_thua_abstraction/MayBay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Tu_hoc_TITV/Ke_thua_abstraction/PhuongTienDiChuyen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Tu_hoc_TITV/Ke_thua_abstraction/XeOto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/Tu_hoc_TITV/Interface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/Tu_hoc_TITV/Interface/MayTinhBoTui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/Tu_hoc_TITV/Interface/MayTinhCasioFX500.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/Tu_hoc_TITV/Interface/MayTinhVinaCal500.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/Tu_hoc_TITV/Interface/PhanMenMayTinh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/Tu_hoc_TITV/Interface/SapXepChen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/Tu_hoc_TITV/Interface/SapXepInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/Colorable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/ColorableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/RectangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/Resizeable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/ResizeableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_refactoring/bai_tap/TennisGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_refactoring/thuc_hanh/doi_ten_bien_tach_hang/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_refactoring/thuc_hanh/doi_ten_bien_tach_hang/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_refactoring/thuc_hanh/refactoring_tach_phuong_thuc/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_refactoring/thuc_hanh/refactoring_tach_phuong_thuc/CylinderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_refactoring/thuc_hanh/tach_bien/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Module 2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Bai_tap/xoa_phan_tu_khoi_mang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Bai_tap/xoa_phan_tu_khoi_mang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Circle_Cylinder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Circle_Cylinder/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Point2D_Point3D/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Point2D_Point3D/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Point_MovablePoint/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Bai_tap/Point_MovablePoint/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,6 +171,7 @@
       <workItem from="1663584832610" duration="5579000" />
       <workItem from="1663609249985" duration="597000" />
       <workItem from="1663635666818" duration="5394000" />
+      <workItem from="1663659766741" duration="677000" />
     </task>
     <servers />
   </component>
