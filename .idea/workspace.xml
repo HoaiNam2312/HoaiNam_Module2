@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df4eddcf-f69f-49e9-b97a-db616a6fe858" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss10_DSA/bai_tap/array_list/MyListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Test_mang/XoaPhanTu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_DSA/bai_tap/LinkedList/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_DSA/bai_tap/LinkedList/MyLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/dao_nguoc_phan_tu/DaoNguocMang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/dem_so_lan_xuat_hien_mot_tu_trong_chuoi/DemSoTuTrongChuoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/trien_khai_queue/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/trien_khai_queue/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/thuc_hanh/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ss10_DSA/bai_tap/array_list/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss10_DSA/bai_tap/array_list/MyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Bai_tap/xoa_phan_tu_khoi_mang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Bai_tap/xoa_phan_tu_khoi_mang.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +56,18 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ss10_DSA.bai_tap.array_list.MyListTest">
-    <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss10_DSA.thuc_hanh.trien_khai_list_co_ban.MyListTest" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ss10_DSA.bai_tap.LinkedList" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ss11_stack_queue.bai_tap.trien_khai_queue.Test">
+    <configuration name="DaoNguocMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss11_stack_queue.bai_tap.dao_nguoc_phan_tu.DaoNguocMang" />
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss10_DSA.thuc_hanh.trien_khai_list_co_ban.*" />
+          <option name="PATTERN" value="ss11_stack_queue.bai_tap.dao_nguoc_phan_tu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDuyetArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss10_DSA.test.TestDuyetArrayList" />
+    <configuration name="DemSoTuTrongChuoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss11_stack_queue.bai_tap.dem_so_lan_xuat_hien_mot_tu_trong_chuoi.DemSoTuTrongChuoi" />
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss10_DSA.test.*" />
+          <option name="PATTERN" value="ss11_stack_queue.bai_tap.dem_so_lan_xuat_hien_mot_tu_trong_chuoi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XoaPhanTu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_mang_phuong_thuc.Test_mang.XoaPhanTu" />
+    <configuration name="MyLinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss10_DSA.bai_tap.LinkedList.MyLinkedListTest" />
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss3_mang_phuong_thuc.Test_mang.*" />
+          <option name="PATTERN" value="ss10_DSA.bai_tap.LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ss10_DSA.bai_tap.array_list.MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss10_DSA.bai_tap.array_list.MyListTest" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss11_stack_queue.thuc_hanh.Test" />
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss10_DSA.bai_tap.array_list.*" />
+          <option name="PATTERN" value="ss11_stack_queue.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,28 +114,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CylinderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ss11_stack_queue.bai_tap.trien_khai_queue.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss11_stack_queue.bai_tap.trien_khai_queue.Test" />
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss8_clean_code_refactoring.thuc_hanh.refactoring_tach_phuong_thuc.*" />
+          <option name="PATTERN" value="ss11_stack_queue.bai_tap.trien_khai_queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ss8_clean_code_refactoring.thuc_hanh.refactoring_tach_phuong_thuc" />
-      <option name="MAIN_CLASS_NAME" value="ss8_clean_code_refactoring.thuc_hanh.refactoring_tach_phuong_thuc.CylinderTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ss10_DSA.bai_tap.array_list.MyListTest" />
-        <item itemvalue="Application.XoaPhanTu" />
-        <item itemvalue="Application.MyListTest" />
-        <item itemvalue="Application.TestDuyetArrayList" />
-        <item itemvalue="JUnit.CylinderTest" />
+        <item itemvalue="Application.ss11_stack_queue.bai_tap.trien_khai_queue.Test" />
+        <item itemvalue="Application.DemSoTuTrongChuoi" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.DaoNguocMang" />
+        <item itemvalue="Application.MyLinkedListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +180,17 @@
       <workItem from="1663584832610" duration="5579000" />
       <workItem from="1663609249985" duration="597000" />
       <workItem from="1663635666818" duration="5394000" />
-      <workItem from="1663659766741" duration="7525000" />
+      <workItem from="1663659766741" duration="8084000" />
+      <workItem from="1663719981880" duration="2823000" />
+      <workItem from="1663727473906" duration="1250000" />
+      <workItem from="1663757727423" duration="11987000" />
+      <workItem from="1663839469845" duration="1191000" />
+      <workItem from="1663930303147" duration="5932000" />
+      <workItem from="1663986350417" duration="2167000" />
+      <workItem from="1663994241170" duration="939000" />
+      <workItem from="1664009567251" duration="1997000" />
+      <workItem from="1664161228588" duration="5922000" />
+      <workItem from="1664180438818" duration="2247000" />
     </task>
     <servers />
   </component>
@@ -238,6 +255,11 @@
           <url>file://$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Bai_tap/tim_pt_nho_nhat.java</url>
           <line>11</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/trien_khai_queue/Test.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Bai_tap/gop_mang.java</url>

@@ -88,6 +88,10 @@ public class MyList<E> {
         arrOfficial[index] = e;
         return tmp;
     }
+
+    public Object clone() {
+        return arrOfficial;
+    }
     private void checkIndex(int index) {
         if (index < 0 || index >= size)
             throw new IndexOutOfBoundsException
