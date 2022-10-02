@@ -5,15 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df4eddcf-f69f-49e9-b97a-db616a6fe858" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss10_DSA/bai_tap/LinkedList/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss10_DSA/bai_tap/LinkedList/MyLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/dao_nguoc_phan_tu/DaoNguocMang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/dem_so_lan_xuat_hien_mot_tu_trong_chuoi/DemSoTuTrongChuoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/trien_khai_queue/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/trien_khai_queue/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/thuc_hanh/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_dsa/quan_ly_sinh_vien/DanhSachSinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_dsa/quan_ly_sinh_vien/SinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_dsa/quan_ly_sinh_vien/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/TITV/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/ArrayList/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/ArrayList/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/ArrayList/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/LinkedList/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/LinkedList/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/LinkedList/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss13_thuat_toan_tim_kiem/bai_tap/TimChuoiTangDanLonNhat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss10_DSA/bai_tap/array_list/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss10_DSA/bai_tap/array_list/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss10_DSA/bai_tap/LinkedList/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss10_dsa/bai_tap/LinkedList/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss10_DSA/bai_tap/LinkedList/MyLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss10_dsa/bai_tap/LinkedList/MyLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss10_DSA/bai_tap/array_list/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss10_dsa/bai_tap/array_list/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss10_DSA/bai_tap/array_list/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss10_dsa/bai_tap/array_list/MyListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss10_DSA/test/TestDuyetArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss10_dsa/test/TestDuyetArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss10_DSA/thuc_hanh/trien_khai_list_co_ban/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss10_dsa/thuc_hanh/trien_khai_list_co_ban/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss10_DSA/thuc_hanh/trien_khai_list_co_ban/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss10_dsa/thuc_hanh/trien_khai_list_co_ban/MyListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss11_stack_queue/thuc_hanh/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss11_stack_queue/thuc_hanh/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_resizeable/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_resizeable/CircleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/Colorable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_resizeable/Colorable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/ColorableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_resizeable/ColorableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_resizeable/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_resizeable/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_resizeable/RectangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/Resizeable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_resizeable/Resizeable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/ResizeableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_resizeable/ResizeableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_resizeable/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_Resizeable/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss7_abstract_class_interface/bai_tap/trien_khai_interface_resizeable/Square.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,67 +62,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/CODEGYM/Module 2/src/ss12_java_collection_framework/bai_tap/LinkedList",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="ss11_stack_queue.TITV" />
       <recent name="ss10_DSA.bai_tap.LinkedList" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\CODEGYM\Module 2\src\ss12_java_collection_framework\bai_tap\LinkedList" />
+      <recent name="E:\CODEGYM\Module 2\src\ss12_java_collection_framework\bai_tap\ArrayList" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ss11_stack_queue.bai_tap.trien_khai_queue.Test">
-    <configuration name="DaoNguocMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss11_stack_queue.bai_tap.dao_nguoc_phan_tu.DaoNguocMang" />
-      <module name="Module 2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss11_stack_queue.bai_tap.dao_nguoc_phan_tu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemSoTuTrongChuoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss11_stack_queue.bai_tap.dem_so_lan_xuat_hien_mot_tu_trong_chuoi.DemSoTuTrongChuoi" />
-      <module name="Module 2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss11_stack_queue.bai_tap.dem_so_lan_xuat_hien_mot_tu_trong_chuoi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyLinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss10_DSA.bai_tap.LinkedList.MyLinkedListTest" />
-      <module name="Module 2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss10_DSA.bai_tap.LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ss12_java_collection_framework.bai_tap.LinkedList.Test">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss11_stack_queue.thuc_hanh.Test" />
       <module name="Module 2" />
@@ -114,12 +103,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ss11_stack_queue.bai_tap.trien_khai_queue.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss11_stack_queue.bai_tap.trien_khai_queue.Test" />
+    <configuration name="TimChuoiTangDanLonNhat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss13_thuat_toan_tim_kiem.bai_tap.TimChuoiTangDanLonNhat" />
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss11_stack_queue.bai_tap.trien_khai_queue.*" />
+          <option name="PATTERN" value="ss13_thuat_toan_tim_kiem.bai_tap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ss10_dsa.quan_ly_sinh_vien.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss10_dsa.quan_ly_sinh_vien.Test" />
+      <module name="Module 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss10_dsa.quan_ly_sinh_vien.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ss12_java_collection_framework.bai_tap.LinkedList.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss12_java_collection_framework.bai_tap.LinkedList.Test" />
+      <module name="Module 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss12_java_collection_framework.bai_tap.LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ss12_java_collection_framework.bai_tap.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss12_java_collection_framework.bai_tap.Test" />
+      <module name="Module 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss12_java_collection_framework.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ss11_stack_queue.bai_tap.trien_khai_queue.Test" />
-        <item itemvalue="Application.DemSoTuTrongChuoi" />
+        <item itemvalue="Application.ss12_java_collection_framework.bai_tap.LinkedList.Test" />
+        <item itemvalue="Application.TimChuoiTangDanLonNhat" />
+        <item itemvalue="Application.ss12_java_collection_framework.bai_tap.Test" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.DaoNguocMang" />
-        <item itemvalue="Application.MyLinkedListTest" />
+        <item itemvalue="Application.ss10_dsa.quan_ly_sinh_vien.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +218,14 @@
       <workItem from="1663994241170" duration="939000" />
       <workItem from="1664009567251" duration="1997000" />
       <workItem from="1664161228588" duration="5922000" />
-      <workItem from="1664180438818" duration="2247000" />
+      <workItem from="1664180438818" duration="3524000" />
+      <workItem from="1664190314219" duration="4965000" />
+      <workItem from="1664372002266" duration="3414000" />
+      <workItem from="1664417485953" duration="5087000" />
+      <workItem from="1664430723918" duration="4703000" />
+      <workItem from="1664439842875" duration="7555000" />
+      <workItem from="1664505952208" duration="496000" />
+      <workItem from="1664535039388" duration="9993000" />
     </task>
     <servers />
   </component>
@@ -256,11 +291,6 @@
           <line>11</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/trien_khai_queue/Test.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Bai_tap/gop_mang.java</url>
           <line>35</line>
@@ -270,10 +300,22 @@
           </properties>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/trien_khai_queue/Solution.java</url>
+          <line>43</line>
+          <properties class="ss11_stack_queue.bai_tap.trien_khai_queue.Solution" method="displayQueue">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Module_2$ss11_stack_queue_bai_tap_trien_khai_queue_Test.ic" NAME="ss11_stack_queue.bai_tap.trien_khai_queue.Test Coverage Results" MODIFIED="1664182867793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ss11_stack_queue.bai_tap.trien_khai_queue.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Module_2$ColorableTest.ic" NAME="ColorableTest Coverage Results" MODIFIED="1663328230438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>ss7_abstract_class_interface.bai_tap.trien_khai_interface_Resizeable.*</FILTER>
     </SUITE>
