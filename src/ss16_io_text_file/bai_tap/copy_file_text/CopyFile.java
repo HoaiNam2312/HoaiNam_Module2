@@ -1,4 +1,4 @@
-package ss16_io_text_file.bai_tap.copy_file_text;
+package ss17_io_text_file.bai_tap.copy_file_text;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;

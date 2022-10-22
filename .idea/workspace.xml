@@ -5,25 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df4eddcf-f69f-49e9-b97a-db616a6fe858" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Retro/map_tree/DemoHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Retro/map_tree/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss13_thuat_toan_tim_kiem/bai_tap/TimChuoiLienTiepLonNhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss14_thuat_toan_sap_xep/bai_tap/cai_dat_thuat_toan_sap_xep_chen/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss14_thuat_toan_sap_xep/bai_tap/minh_hoa_thuat_toan_sap_xep_chen/insertionSortByStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss15_xu_ly_ngoai_le_debug/bai_tap/IllegalTriangleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss15_xu_ly_ngoai_le_debug/bai_tap/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss15_xu_ly_ngoai_le_debug/thuc_hanh/QuizTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/copy_file_text/CopyFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/copy_file_text/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/read_file_csv/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/read_file_csv/ReadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/read_file_csv/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/read_file_csv/file.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss16_io_text_file/thuc_hanh/ReadFromFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss16_io_text_file/thuc_hanh/WriteToFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_binaryFile_serialization/bai_tap/object_file_object/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_binaryFile_serialization/bai_tap/object_file_object/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_binaryFile_serialization/bai_tap/text_file_object/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_binaryFile_serialization/bai_tap/text_file_object/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_binaryFile_serialization/bai_tap/text_file_object/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_binaryFile_serialization/thuc_hanh/DanhSachSinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_binaryFile_serialization/thuc_hanh/SinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_binaryFile_serialization/thuc_hanh/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_io_text_file/thuc_hanh/ReadFromFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/copy_file_text/CopyFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/copy_file_text/CopyFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/copy_file_text/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/copy_file_text/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/read_file_csv/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/read_file_csv/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/read_file_csv/ReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/read_file_csv/ReadFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/read_file_csv/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/read_file_csv/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss16_io_text_file/thuc_hanh/ReadFromFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss16_io_text_file/thuc_hanh/WriteToFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss16_io_text_file/thuc_hanh/WriteToFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss16_io_text_file/thuc_hanh/textFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss16_io_text_file/thuc_hanh/read.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/CODEGYM/FuramaResort",
+    "last_opened_file_path": "E:/CODEGYM/Module 2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,17 +74,21 @@
       <recent name="ss10_DSA.bai_tap.LinkedList" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\CODEGYM\Module 2\src\ss17_binaryFile_serialization\thuc_hanh" />
       <recent name="E:\CODEGYM\Module 2\src\ss12_java_collection_framework\bai_tap\LinkedList" />
       <recent name="E:\CODEGYM\Module 2\src\ss12_java_collection_framework\bai_tap\ArrayList" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ss17_binaryFile_serialization.bai_tap.object_file_object" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="DemoHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Retro.map_tree.DemoHashSet" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss17_binaryFile_serialization.bai_tap.object_file_object.Main" />
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Retro.map_tree.*" />
+          <option name="PATTERN" value="ss17_binaryFile_serialization.bai_tap.object_file_object.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,19 +122,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss16_io_text_file.thuc_hanh.WriteToFile" />
-      <module name="Module 2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss16_io_text_file.thuc_hanh.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ss16_io_text_file.bai_tap.copy_file_text.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss16_io_text_file.bai_tap.copy_file_text.Test" />
       <module name="Module 2" />
@@ -145,13 +135,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ss17_binaryFile_serialization.bai_tap.text_file_object.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss17_binaryFile_serialization.bai_tap.text_file_object.Test" />
+      <module name="Module 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss17_binaryFile_serialization.bai_tap.text_file_object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ss17_binaryFile_serialization.bai_tap.text_file_object.Test" />
+        <item itemvalue="Application.ReadFromFile" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.ss16_io_text_file.bai_tap.copy_file_text.Test" />
-        <item itemvalue="Application.ReadFromFile" />
-        <item itemvalue="Application.WriteToFile" />
-        <item itemvalue="Application.DemoHashSet" />
       </list>
     </recent_temporary>
   </component>
@@ -236,6 +239,12 @@
       <workItem from="1666057586768" duration="17000" />
       <workItem from="1666060763159" duration="732000" />
       <workItem from="1666179018647" duration="8047000" />
+      <workItem from="1666320417233" duration="1956000" />
+      <workItem from="1666344866834" duration="1093000" />
+      <workItem from="1666349788177" duration="563000" />
+      <workItem from="1666355028914" duration="2411000" />
+      <workItem from="1666401113391" duration="2523000" />
+      <workItem from="1666404527655" duration="9173000" />
     </task>
     <servers />
   </component>
