@@ -5,24 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df4eddcf-f69f-49e9-b97a-db616a6fe858" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss17_binaryFile_serialization/bai_tap/object_file_object/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_binaryFile_serialization/bai_tap/object_file_object/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_binaryFile_serialization/bai_tap/text_file_object/FileUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_binaryFile_serialization/bai_tap/text_file_object/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_binaryFile_serialization/bai_tap/text_file_object/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_binaryFile_serialization/thuc_hanh/DanhSachSinhVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_binaryFile_serialization/thuc_hanh/SinhVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_binaryFile_serialization/thuc_hanh/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_io_text_file/thuc_hanh/ReadFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_string_regex/bai_tap/ValidateSoDienThoai/ValidateSoDienThoai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_string_regex/bai_tap/ValidateTenLopHoc/ValidateTenLopHoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss19_string_regex/thuc_hanh/Regex_So_dien_thoai.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/copy_file_text/CopyFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/copy_file_text/CopyFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/copy_file_text/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/copy_file_text/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/read_file_csv/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/read_file_csv/Country.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/read_file_csv/ReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/read_file_csv/ReadFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/read_file_csv/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss16_io_text_file/bai_tap/read_file_csv/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss16_io_text_file/thuc_hanh/ReadFromFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss16_io_text_file/thuc_hanh/WriteToFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss16_io_text_file/thuc_hanh/WriteToFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss16_io_text_file/thuc_hanh/textFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss16_io_text_file/thuc_hanh/read.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +68,7 @@
       <recent name="ss17_binaryFile_serialization.bai_tap.object_file_object" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.ValidateSoDienThoai">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss17_binaryFile_serialization.bai_tap.object_file_object.Main" />
       <module name="Module 2" />
@@ -96,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss16_io_text_file.thuc_hanh.ReadFromFile" />
+    <configuration name="Regex_So_dien_thoai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss19_string_regex.thuc_hanh.Regex_So_dien_thoai" />
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss16_io_text_file.thuc_hanh.*" />
+          <option name="PATTERN" value="ss19_string_regex.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss16_io_text_file.bai_tap.read_file_csv.Test" />
+    <configuration name="ValidateSoDienThoai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss19_string_regex.bai_tap.ValidateSoDienThoai.ValidateSoDienThoai" />
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss16_io_text_file.bai_tap.read_file_csv.*" />
+          <option name="PATTERN" value="ss19_string_regex.bai_tap.ValidateSoDienThoai.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ss16_io_text_file.bai_tap.copy_file_text.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss16_io_text_file.bai_tap.copy_file_text.Test" />
+    <configuration name="ValidateTenLopHoc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss19_string_regex.bai_tap.ValidateTenLopHoc.ValidateTenLopHoc" />
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss16_io_text_file.bai_tap.copy_file_text.*" />
+          <option name="PATTERN" value="ss19_string_regex.bai_tap.ValidateTenLopHoc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidateSoDienThoai" />
+        <item itemvalue="Application.ValidateTenLopHoc" />
+        <item itemvalue="Application.Regex_So_dien_thoai" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ss17_binaryFile_serialization.bai_tap.text_file_object.Test" />
-        <item itemvalue="Application.ReadFromFile" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ss16_io_text_file.bai_tap.copy_file_text.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -245,6 +231,15 @@
       <workItem from="1666355028914" duration="2411000" />
       <workItem from="1666401113391" duration="2523000" />
       <workItem from="1666404527655" duration="9173000" />
+      <workItem from="1666443647878" duration="607000" />
+      <workItem from="1666601116093" duration="895000" />
+      <workItem from="1666608992087" duration="38000" />
+      <workItem from="1666610400995" duration="50000" />
+      <workItem from="1666611104352" duration="357000" />
+      <workItem from="1666612595948" duration="25000" />
+      <workItem from="1666615946517" duration="33000" />
+      <workItem from="1666664382778" duration="27000" />
+      <workItem from="1666788778004" duration="2960000" />
     </task>
     <servers />
   </component>
