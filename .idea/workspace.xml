@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df4eddcf-f69f-49e9-b97a-db616a6fe858" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon/Data/nguoiChoThue.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon/Data/nguoiThue.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon/account/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon/account/AccountLessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon/account/AccountRenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon/inputAcc/inputAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon/menu/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon/menu/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon/utils/IDInvalidException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon/utils/ReadAndWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon/utils/RegexData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss19_string_regex/thuc_hanh/TestRegex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="df4eddcf-f69f-49e9-b97a-db616a6fe858" name="Changes" comment="a" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/Bai_Tap_Lon" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -255,8 +241,16 @@
       <workItem from="1666664382778" duration="27000" />
       <workItem from="1666788778004" duration="3239000" />
       <workItem from="1666964331433" duration="2670000" />
-      <workItem from="1667558932072" duration="9194000" />
+      <workItem from="1667558932072" duration="9592000" />
     </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1667568534356</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667568534356</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,6 +266,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
