@@ -10,13 +10,19 @@ public class Main {
 //        System.out.println(shape.toString());
 
         //Kiểm tra class: Circle
-        Circle circle = new Circle();
-        System.out.println(circle);
+        NhanVien nv1 = new NhanVienFullTime();
+        NhanVienFullTime nv2 = new NhanVienFullTime();
 
-        circle = new Circle(3.5);
-        System.out.println(circle);
-
-        circle = new Circle(3.5, "indigo", false);
-        System.out.println(circle);
+        nv1.setTen("Tùng");
+        nv2.setTen("An");
+        System.out.println(nv1.inTen());
+        System.out.println(nv2.inTen());
+//        nv1 = new NhanVienFullTime();
+        nv2 = (NhanVienFullTime) nv1;
+        System.out.println(nv1.inTen());
+        System.out.println(nv2.inTen());
+        nv1.setTen("Kutin");
+        System.out.println(nv1.inTen());
+        System.out.println(nv2.inTen());
     }
 }

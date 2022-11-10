@@ -4,7 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df4eddcf-f69f-49e9-b97a-db616a6fe858" name="Changes" comment="a" />
+    <list default="true" id="df4eddcf-f69f-49e9-b97a-db616a6fe858" name="Changes" comment="a">
+      <change afterPath="$PROJECT_DIR$/src/bai_thi/controllers/MenuMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai_thi/controllers/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai_thi/data/nguoiDangKy.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai_thi/data/xeOTO.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai_thi/data/xeTai.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai_thi/models/NguoiDangKy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai_thi/models/OTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai_thi/models/PhuongTien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai_thi/models/XeTai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai_thi/services/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai_thi/utils/AccountInvalidException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai_thi/utils/Loi1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai_thi/utils/Loi2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai_thi/utils/ReadAndWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai_thi/utils/RegexData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Thuc_hanh/NhanVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Thuc_hanh/NhanVienFullTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai_Tap_Lon" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai_Tap_Lon/Data/nguoiChoThue.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon/Data/nguoiChoThue.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai_Tap_Lon/Data/nguoiThue.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon/Data/nguoiThue.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai_Tap_Lon/inputAcc/inputAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon/inputAcc/inputAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai_Tap_Lon/menu/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon/menu/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai_Tap_Lon/utils/ReadAndWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon/utils/ReadAndWrite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai_Tap_Lon/utils/RegexData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon/utils/RegexData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss6_ke_thua/Thuc_hanh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Thuc_hanh/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +48,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/Bai_Tap_Lon" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -31,24 +59,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/CODEGYM/Module 2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/CODEGYM/Module 2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ss11_stack_queue.TITV" />
@@ -63,18 +91,19 @@
       <recent name="Bai_Tap_Lon.account" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="bai_thi.utils" />
       <recent name="Bai_Tap_Lon.inputAcc" />
       <recent name="Bai_Tap_Lon.vidu" />
       <recent name="ss17_binaryFile_serialization.bai_tap.object_file_object" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Regex_So_dien_thoai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss19_string_regex.thuc_hanh.Regex_So_dien_thoai" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.Thuc_hanh.Main" />
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss19_string_regex.thuc_hanh.*" />
+          <option name="PATTERN" value="ss6_ke_thua.Thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidateTenLopHoc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss19_string_regex.bai_tap.ValidateTenLopHoc.ValidateTenLopHoc" />
+    <configuration name="bai_thi.controllers.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai_thi.controllers.Test" />
       <module name="Module 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss19_string_regex.bai_tap.ValidateTenLopHoc.*" />
+          <option name="PATTERN" value="bai_thi.controllers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.bai_thi.controllers.Test" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.TestRegex" />
         <item itemvalue="Application.ValidateSoDienThoai" />
-        <item itemvalue="Application.ValidateTenLopHoc" />
-        <item itemvalue="Application.Regex_So_dien_thoai" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +270,22 @@
       <workItem from="1666664382778" duration="27000" />
       <workItem from="1666788778004" duration="3239000" />
       <workItem from="1666964331433" duration="2670000" />
-      <workItem from="1667558932072" duration="9592000" />
+      <workItem from="1667558932072" duration="13646000" />
+      <workItem from="1667615553148" duration="8136000" />
+      <workItem from="1667639770340" duration="12737000" />
+      <workItem from="1667709121296" duration="1334000" />
+      <workItem from="1667736416804" duration="6292000" />
+      <workItem from="1667819140309" duration="1485000" />
+      <workItem from="1667826063749" duration="4822000" />
+      <workItem from="1667874236235" duration="3749000" />
+      <workItem from="1667895908950" duration="2162000" />
+      <workItem from="1667903286951" duration="4520000" />
+      <workItem from="1667958171160" duration="4108000" />
+      <workItem from="1667979927168" duration="759000" />
+      <workItem from="1667984208817" duration="2535000" />
+      <workItem from="1667990859934" duration="20470000" />
+      <workItem from="1668046621117" duration="2334000" />
+      <workItem from="1668061141787" duration="3965000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1667568534356</created>
@@ -328,6 +372,16 @@
           <url>file://$PROJECT_DIR$/src/ss13_thuat_toan_tim_kiem/bai_tap/TimChuoiLienTiepLonNhat.java</url>
           <line>24</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Bai_Tap_Lon/inputAcc/inputAccount.java</url>
+          <line>208</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bai_thi/services/Service.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/ss3_mang_phuong_thuc/Bai_tap/gop_mang.java</url>
