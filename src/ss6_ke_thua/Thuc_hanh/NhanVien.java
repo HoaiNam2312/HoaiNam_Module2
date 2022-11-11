@@ -15,6 +15,6 @@ public class NhanVien {
     }
 
     public String inTen() {
-        return "Tên NV: " + ten;
+        return "lớp cha";
     }
 }

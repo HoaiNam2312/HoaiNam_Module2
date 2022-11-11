@@ -15,9 +15,11 @@ import java.util.Scanner;
 public class Service {
 
     //Tạo list lưu dữ liệu
-    ArrayList<NguoiDangKy> danhSachDangKy = new ArrayList<>();
-    ArrayList<XeTai> xeTaiList = new ArrayList<>();
-    ArrayList<OTO> otoList = new ArrayList<>();
+    private String phuongTienURL = "E:\\CODEGYM\\Module 2\\src\\bai_thi\\data\\phuongTien.csv";
+    private String giayDangKyURL = "E:\\CODEGYM\\Module 2\\src\\bai_thi\\data\\giayDangKy.csv";
+    private ArrayList<NguoiDangKy> danhSachDangKy = ReadAndWrite.readFileNguoiDangKy(giayDangKyURL);
+    private ArrayList<XeTai> xeTaiList = ReadAndWrite.readFileXeTai(phuongTienURL);
+    private ArrayList<OTO> otoList = ReadAndWrite.readFileOto(phuongTienURL);
 
 
     private Scanner sc = new Scanner(System.in);
@@ -27,10 +29,9 @@ public class Service {
     private final String REXGEX_TEN = "^[[A-Z]\\w+\\s]+$";
 
     public void dangKyPhuongTien(String loaiXe) throws ParseException {
-        danhSachDangKy = ReadAndWrite.readFileNguoiDangKy("E:\\CODEGYM\\Module 2\\src\\bai_thi\\data\\nguoiDangKy.csv");
+//        danhSachDangKy = ReadAndWrite.readFileNguoiDangKy("E:\\CODEGYM\\Module 2\\src\\bai_thi\\data\\giayDangKy.csv");
 
         if (loaiXe.equals("Tải")) {
-            xeTaiList = ReadAndWrite.readFileXeTai("E:\\CODEGYM\\Module 2\\src\\bai_thi\\data\\xeTai.csv");
             System.out.println("Nhập số đăng ký:");
             String soDangKy = bai_thi.utils.RegexData.regexStr(sc.nextLine(), REXGEX_SODANGKY, "Bạn đã nhập sai định dạng!!!\nVui lòng nhập lại:");
             System.out.println("Nhập tên chủ phương tiện:");
@@ -58,9 +59,8 @@ public class Service {
                     }
                 }
             }
-            ReadAndWrite.writeFileNguoiDangKy(danhSachDangKy, "E:\\CODEGYM\\Module 2\\src\\bai_thi\\data\\nguoiDangKy.csv");
+            ReadAndWrite.writeFileNguoiDangKy(danhSachDangKy, "E:\\CODEGYM\\Module 2\\src\\bai_thi\\data\\giayDangKy.csv");
         }else {
-            otoList = ReadAndWrite.readFileOto("E:\\CODEGYM\\Module 2\\src\\bai_thi\\data\\xeOTO.csv");
             System.out.println("Nhập số đăng ký:");
             String soDangKy = bai_thi.utils.RegexData.regexStr(sc.nextLine(), REXGEX_SODANGKY, "Bạn đã nhập sai định dạng!!!\nVui lòng nhập lại:");
             System.out.println("Nhập tên chủ phương tiện:");
@@ -88,13 +88,12 @@ public class Service {
                     }
                 }
             }
-            ReadAndWrite.writeFileNguoiDangKy(danhSachDangKy, "E:\\CODEGYM\\Module 2\\src\\bai_thi\\data\\nguoiDangKy.csv");
+            ReadAndWrite.writeFileNguoiDangKy(danhSachDangKy, "E:\\CODEGYM\\Module 2\\src\\bai_thi\\data\\giayDangKy.csv");
         }
 
     }
 
     public void hienThiThongTin() {
-        danhSachDangKy = ReadAndWrite.readFileNguoiDangKy("E:\\CODEGYM\\Module 2\\src\\bai_thi\\data\\nguoiDangKy.csv");
         for (NguoiDangKy nguoiDangKy : danhSachDangKy) {
             if (nguoiDangKy.getXeTai() != null) {
                 System.out.println(nguoiDangKy.toStringXeTai());
@@ -105,7 +104,6 @@ public class Service {
     }
 
     public void huyDangKy() {
-        danhSachDangKy = ReadAndWrite.readFileNguoiDangKy("E:\\CODEGYM\\Module 2\\src\\bai_thi\\data\\nguoiDangKy.csv");
         System.out.println("Nhập số đăng ký bạn muốn xóa: ");
         String soDangKy = bai_thi.utils.RegexData.regexStr(sc.nextLine(), REXGEX_SODANGKY, "Bạn đã nhập sai định dạng!!!\nVui lòng nhập lại:");
         boolean flag = false;
@@ -118,7 +116,7 @@ public class Service {
                 switch (checkDel) {
                     case 1:
                         danhSachDangKy.remove(nguoiDangKy);
-                        ReadAndWrite.writeFileNguoiDangKy(danhSachDangKy, "E:\\CODEGYM\\Module 2\\src\\bai_thi\\data\\nguoiDangKy.csv");
+                        ReadAndWrite.writeFileNguoiDangKy(danhSachDangKy, "E:\\CODEGYM\\Module 2\\src\\bai_thi\\data\\giayDangKy.csv");
                         System.out.println("Đã xóa thành công");
                         break;
                     case 2:

@@ -11,7 +11,7 @@ public abstract class PhuongTien {
     private int congSuat;
     private int dungTichXyLanh;
 
-    private SimpleDateFormat df = new SimpleDateFormat("dd/MM/yyyy");
+    private SimpleDateFormat dfyear = new SimpleDateFormat("yyyy");
     public PhuongTien(String maPhuongTien, String tenPhuongTien, String hangSanXuat, Date namSanXuat, int congSuat, int dungTichXyLanh) {
         this.maPhuongTien = maPhuongTien;
         this.tenPhuongTien = tenPhuongTien;
@@ -77,7 +77,7 @@ public abstract class PhuongTien {
     public abstract String getInfo();
 
     public String getFile() {
-        return tenPhuongTien + "," + hangSanXuat + "," + df.format(namSanXuat)+","+congSuat+","+dungTichXyLanh;
+        return tenPhuongTien + "," + hangSanXuat + "," + dfyear.format(namSanXuat)+","+congSuat+","+dungTichXyLanh;
     }
 
     @Override
@@ -86,7 +86,7 @@ public abstract class PhuongTien {
                 ", maPhuongTien='" + maPhuongTien + '\'' +
                 ", tenPhuongTien='" + tenPhuongTien + '\'' +
                 ", hangSanXuat='" + hangSanXuat + '\'' +
-                ", namSanXuat=" + df.format(namSanXuat) +
+                ", namSanXuat=" + dfyear.format(namSanXuat) +
                 ", congSuat=" + congSuat +
                 ", dungTichXyLanh=" + dungTichXyLanh;
     }
