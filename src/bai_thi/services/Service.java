@@ -25,7 +25,7 @@ public class Service {
     private Scanner sc = new Scanner(System.in);
     private SimpleDateFormat df = new SimpleDateFormat("dd/MM/yyyy");
     private final String REXGEX_SODANGKY = "^[A-Z]\\d-\\d{4}$";
-//    private final String REXGEX_TEN = "^[[A-Z]\\w+\\s[A-Z]\\w+\\s[A-Z]\\w*]+$";
+    //    private final String REXGEX_TEN = "^[[A-Z]\\w+\\s[A-Z]\\w+\\s[A-Z]\\w*]+$";
     private final String REXGEX_TEN = "^[[A-Z]\\w+\\s]+$";
 
     public void dangKyPhuongTien(String loaiXe) throws ParseException {
