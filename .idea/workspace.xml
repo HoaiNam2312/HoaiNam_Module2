@@ -5,18 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df4eddcf-f69f-49e9-b97a-db616a6fe858" name="Changes" comment="a">
-      <change afterPath="$PROJECT_DIR$/src/bai_thi_2/controllers/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai_thi_2/controllers/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai_thi_2/data/chinhHang.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai_thi_2/data/xachTay.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai_thi_2/models/ChinhHang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai_thi_2/models/DienThoaiDiDong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai_thi_2/models/XachTay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai_thi_2/services/DichVu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai_thi_2/utils/Loi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai_thi_2/utils/ReadAndWrite2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai_thi_2/utils/RegexData2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Thuc_hanh/MyClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Bai_Tap_Lon" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Bai_Tap_Lon/Data/nguoiChoThue.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon/Data/nguoiChoThue.csv" afterDir="false" />
@@ -25,12 +13,6 @@
       <change beforePath="$PROJECT_DIR$/src/Bai_Tap_Lon/menu/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon/menu/Menu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Bai_Tap_Lon/utils/ReadAndWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon/utils/ReadAndWrite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Bai_Tap_Lon/utils/RegexData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bai_Tap_Lon/utils/RegexData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai_thi/controllers/MenuMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai_thi/controllers/MenuMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai_thi/controllers/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai_thi/controllers/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai_thi/data/giayDangKy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai_thi/data/giayDangKy.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai_thi/services/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai_thi/services/Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai_thi/utils/ReadAndWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai_thi/utils/ReadAndWrite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss6_ke_thua/Thuc_hanh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Thuc_hanh/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +50,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/CODEGYM/Module 2",
+    "last_opened_file_path": "E:/CODEGYM/Module 3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -291,6 +273,9 @@
       <workItem from="1668158727695" duration="1017000" />
       <workItem from="1668164747942" duration="8608000" />
       <workItem from="1668239495154" duration="704000" />
+      <workItem from="1668254647554" duration="437000" />
+      <workItem from="1668429441054" duration="608000" />
+      <workItem from="1669294846985" duration="28000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1667568534356</created>
